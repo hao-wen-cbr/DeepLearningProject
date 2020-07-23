@@ -25,3 +25,5 @@ Detecting the actual perception of the emotion expressed by human face is import
 •	Extend the shallow neural network into deep learning including CNN and LSTM
 
 •	Do research and find method to improve LSTM performance from 50% to 60% accuracy 
+
+![alt text](http://url/to/img.png)

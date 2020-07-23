@@ -7,24 +7,36 @@ Detecting the actual perception of the emotion expressed by human face is import
 
 2. Datasets Description and Pre-Processing
 <p align="center">
-  <img src="https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig1.png?raw=true" alt="Sublime's custom image" width="800" height="600"/>
+  <img src="https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig1.png?raw=true" alt="Sublime's custom image" width="700" height="375"/>
 </p>
 
 3. Shallow Neural Network with Casper algorithm, RPROP and SARPROP algorithm
-![alt text](https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig2.png?raw=true)
+<p align="center">
+  <img src="https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig2.png?raw=true" alt="Sublime's custom image" width="700" height="350"/>
+</p>
 
 4. Deep Learning with padding, Convolutional Neural Network, LSTM
 
 ### pre-padding and post-padding
-![alt text](https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig3.png?raw=true)
-![alt text](https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig4.png?raw=true)
+<p align="center">
+  <img src="https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig3.png?raw=true" alt="Sublime's custom image"/>
+</p>
+<p align="center">
+  <img src="https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig4.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 ### CNN structure
-![alt text](https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig5.png?raw=true)
+<p align="center">
+  <img src="https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig5.png?raw=true" alt="Sublime's custom image" width="700" height="375"/>
+</p>
 
 ### LSTM strcuture
-![alt text](https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig7.png?raw=true)
-![alt text](https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig6.png?raw=true)
+<p align="center">
+  <img src="https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig7.png?raw=true" alt="Sublime's custom image" width="700" height="300"/>
+</p>
+<p align="center">
+  <img src="https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig6.png?raw=true" alt="Sublime's custom image" width="700" height="375"/>
+</p>
 
 5. Model Design
 

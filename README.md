@@ -21,6 +21,7 @@ Detecting the actual perception of the emotion expressed by human face is import
 ![alt text](https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig5.png?raw=true)
 
 ### LSTM strcuture
+![alt text](https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig7.png?raw=true)
 ![alt text](https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig6.png?raw=true)
 
 5. Model Design

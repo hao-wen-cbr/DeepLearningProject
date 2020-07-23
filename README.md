@@ -6,7 +6,9 @@ Detecting the actual perception of the emotion expressed by human face is import
 1. Introduction
 
 2. Datasets Description and Pre-Processing
-![alt text](https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig1.png?raw=true)
+<p align="center">
+  <img src="https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig1.png?raw=true" alt="Sublime's custom image" width="800" height="600"/>
+</p>
 
 3. Shallow Neural Network with Casper algorithm, RPROP and SARPROP algorithm
 ![alt text](https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig2.png?raw=true)

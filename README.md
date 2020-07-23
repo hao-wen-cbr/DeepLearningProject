@@ -17,7 +17,7 @@ Detecting the actual perception of the emotion expressed by human face is import
 
 4. Deep Learning with padding, Convolutional Neural Network, LSTM
 
-      ### pre-padding and post-padding
+   #### pre-padding and post-padding
 <p align="center">
   <img src="https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig3.png?raw=true" alt="Sublime's custom image"/>
 </p>
@@ -25,12 +25,12 @@ Detecting the actual perception of the emotion expressed by human face is import
   <img src="https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig4.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
-      ### CNN structure
+   #### CNN structure
 <p align="center">
   <img src="https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig5.png?raw=true" alt="Sublime's custom image" width="700" height="375"/>
 </p>
 
-      ### LSTM strcuture
+   #### LSTM strcuture
 <p align="center">
   <img src="https://github.com/hao-wen-cbr/Deep_Learning_Project/blob/master/screenshots/fig7.png?raw=true" alt="Sublime's custom image" width="700" height="300"/>
 </p>
